@@ -1,1 +1,0 @@
-# Elevation-map_Stuttgart
